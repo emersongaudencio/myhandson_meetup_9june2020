@@ -5,21 +5,18 @@ Performance Schema Tips and Tricks - MyHandsOn Meetup 9th June 2020
 
 ### MySQL Performance Schema
 * [MySQL 5.6 Performance Schema DOCS](https://dev.mysql.com/doc/refman/5.6/en/performance-schema.html)
-#### reporting of memory consumption
 
- - 177K per connection in 5.6 (multiplied by max_connections) with other settings default.
+ - Reporting of memory consumption: 177K per connection in 5.6 (multiplied by max_connections) with other settings default.
 
 * [MySQL 5.6 Profiling with Performance Schema - Presentation by Oracle](https://github.com/emersongaudencio/myhandson_meetup_9june2020/blob/master/profiling_with_performance_schema.pdf)
 
 * [MySQL 5.7 Performance Schema DOCS](https://dev.mysql.com/doc/refman/5.7/en/performance-schema.html)
-#### reporting of memory consumption
 
- - 177K per connection in 5.7 (multiplied by max_connections) with other settings default.
+ - Reporting of memory consumption: 177K per connection in 5.7 (multiplied by max_connections) with other settings default.
 
 * [MySQL 8.0 Performance Schema DOCS](https://dev.mysql.com/doc/refman/8.0/en/performance-schema.html)
-#### reporting of memory consumption
 
- - 177K per connection in 8.0 (multiplied by max_connections) with other settings default.
+ - Reporting of memory consumption: 177K per connection in 8.0 (multiplied by max_connections) with other settings default.
 
 ### MariaDB Performance Schema (Based on MySQL 5.6 instrumentations)
 * [MariaDB Performance Schema](https://mariadb.com/kb/en/performance-schema/)
